@@ -1,0 +1,20 @@
+# ninja log v6
+8	635	7393012624783376	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+636	797	7393012631062215	Cpp_pros.exe	3e7ccd042060d755
+17	136	7393012249207243	CMakeFiles/Cpp_pros.dir/test.cpp.obj	d2db9fe35f470be
+15	1059	7393004632306681	CMakeFiles/Cpp_pros.dir/src/test.cpp.obj	efaa3f7b0f99936c
+8	1453	7393012052519247	CMakeFiles/Cpp_pros.dir/src/func1_lambda.cpp.obj	4efccdb56f0c3c03
+3	284	7393012681683481	build.ninja	226ba5131904889c
+8	679	7393013076758000	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+680	840	7393013083469120	Cpp_pros.exe	3e7ccd042060d755
+9	690	7393013303351927	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+691	848	7393013310179137	Cpp_pros.exe	3e7ccd042060d755
+9	608	7393013445557766	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+609	772	7393013451551912	Cpp_pros.exe	3e7ccd042060d755
+10	630	7393013632275517	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+630	791	7393013638468070	Cpp_pros.exe	3e7ccd042060d755
+11	1288	7393015409310323	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+22	1946	7393015409420792	CMakeFiles/Cpp_pros.dir/src/func1_lambda.cpp.obj	4efccdb56f0c3c03
+1946	2162	7393015428655405	Cpp_pros.exe	3e7ccd042060d755
+8	965	7393514784494306	CMakeFiles/Cpp_pros.dir/main.cpp.obj	54bfe8da4ba8e8d7
+966	1400	7393514794072827	Cpp_pros.exe	3e7ccd042060d755
